@@ -2,6 +2,8 @@
 
 A standalone library and toolset for parsing configuration information of each frame from Opus format files. Supports parsing TOC bytes, encoding modes, audio bandwidth, frame sizes, and other parameters of Opus packets.
 
+[中文文档](README.zh.md)
+
 ## Features
 
 Extract and parse configuration information of each frame from Opus files, outputting relevant information. Current version supports:
